@@ -145,6 +145,3 @@ public class ExampleServlet2 extends HttpServlet{
 }
 
 
-
-
-
